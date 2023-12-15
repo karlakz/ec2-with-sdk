@@ -1,0 +1,15 @@
+{
+  "name": "ec2-with-sdk",
+  "version": "1.0.0",
+  "description": "Create an EC2 instance with AWS SDK",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1517.0"
+  }
+}
